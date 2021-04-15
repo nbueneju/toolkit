@@ -1,4 +1,4 @@
-# NextEuropa Toolkit TEST
+# NextEuropa Toolkit
 
 The NextEuropa Toolkit is a composer package designed to speed up the development of Drupal websites in Drupal 8. Its main core is the robo based build system that builds your development environments, deploy and test your code.
 
